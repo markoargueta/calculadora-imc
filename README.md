@@ -1,1 +1,1 @@
-# calculadora-imc
+Calculadora de Índice de Masa Corporal (IMC) elaborada con HTML, CSS y JavaScript, el IMC lo calcula digitando el peso en libras y la altura en cm, el resultado se muestra en las notificaciones del navegador
