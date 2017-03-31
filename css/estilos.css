@@ -1,0 +1,9 @@
+input, select{
+	border: none;
+	font-size: 20px;
+	font-weight: bold;
+}
+table, button{
+	font-size: 20px;
+	font-weight: bold;
+}
